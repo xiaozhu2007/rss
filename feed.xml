@@ -1,0 +1,22 @@
+<!-- This is an RSS comment -->
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+
+<channel>
+  <title>主页</title>
+  <link>https://xiaozhu2007.github.io/</link>
+  <description>主页</description>
+  <item>
+    <title>搜索</title>
+    <link>https://xiaozhu2007.github.io/search/</link>
+    <description>搜索引擎大全</description>
+  </item>
+  <item>
+    <title>登录/注册</title>
+    <link>https://xiaozhu2007.github.io/sgin.html</link>
+    <description>登录/注册</description>
+  </item>
+  
+</channel>
+
+</rss>
