@@ -6,15 +6,20 @@
   <link>https://xiaozhu2007.github.io/</link>
   <description>Home Page</description>
   <author>2530665121@qq.com</author>
+  <pubDate>Wed, 3 Jun 2020</pubDate>
   <item>
     <title>Search</title>
     <link>https://xiaozhu2007.github.io/search/</link>
     <description>Search engine Daquan</description>
+    <author>2530665121@qq.com</author>
+    <pubDate>Wed, 3 Jun 2020</pubDate>
   </item>
   <item>
     <title>Sgin in/Sgin up</title>
     <link>https://xiaozhu2007.github.io/sgin.html</link>
     <description>Sgin in/Sgin up</description>
+    <author>2530665121@qq.com</author>
+    <pubDate>Wed, 3 Jun 2020</pubDate>
   </item>
   
 </channel>
