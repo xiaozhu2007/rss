@@ -1,1 +1,30 @@
-
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+ 
+<channel>
+  <title>Explorer1120's Blog</title>
+  <link>https://explorer1120.github.io/post/index.html</link>
+  <description> </description>
+  <language>zh-cn</language>
+  <generator>Notepad-By xiaozhu2007</generator>
+  <item>
+    <title>uTools</title>
+    <link>https://explorer1120.github.io/post/sw0001.html</link>
+    <description>是快捷启动器，也是实用工具箱 | 私人专属小工具库</description>
+    <author>explorer1120</author>
+  </item>
+  <item>
+    <title>Internet Download Manager</title>
+    <link>https://explorer1120.github.io/post/sw0002.html</link>
+    <description>Windows 上的下载工具，选这个就对了</description>
+    <author>explorer1120</author>
+  </item>
+  <item>
+    <title>How to replace all kinds of rogue software?</title>
+    <link>https://explorer1120.github.io/post/sw0003.html</link>
+    <description></description>
+    <author>explorer1120</author>
+  </item>
+</channel>
+ 
+</rss>
