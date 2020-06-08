@@ -4,13 +4,10 @@
 <channel>
   <title>Explorer1120's Blog</title>
   <link>https://explorer1120.github.io/post/index.html</link>
-  <description>你正在查看的源包含频繁更新的内容。订阅源后，该源会添加到“常见源列表”中。</description>
+  <description> </description>
   <language>zh-cn</language>
-  <generator>Notepad-By xiaozhu2007</generator>
-  <webMaster>2530665121@qq.com</webMaster>
-  <!-- 管理员 -->
-  <managingEditor>editor@qq.com</managingEditor>
-  <!-- 编辑员 -->
+  <generator>By xiaozhu2007</generator>
+
   <item>
     <title>uTools</title>
     <link>https://explorer1120.github.io/post/sw0001.html</link>
