@@ -73,8 +73,18 @@
     <description>
      exp的h5日记——准备工作
     </description>
-    <author>xiaozhu2007</author>
+    <author>explorer1120@foxmail.com</author>
     <pubDate>2020-06-12</pubDate>
+    <category>HTML5</category>
+  </item>
+  <item>
+    <title>exp的h5日记——html文档的编写方法</title>
+    <link>https://explorer1120.github.io/post/ht0001.html</link>
+    <description>
+     exp的h5日记——html文档的编写方法
+    </description>
+    <author>explorer1120@foxmail.com</author>
+    <pubDate>2020-06-16</pubDate>
     <category>HTML5</category>
   </item>
 </channel>
